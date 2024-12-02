@@ -1,0 +1,608 @@
+2024-12-02 13:17:13,335 - INFO - Configuration loaded successfully.
+2024-12-02 13:17:13,335 - INFO - Cumulative weights for slices and mobility patterns calculated.
+2024-12-02 13:17:13,335 - INFO - Base stations initialized.
+2024-12-02 13:17:13,336 - INFO - Clients initialized and assigned to mobility patterns.
+2024-12-02 13:17:13,336 - INFO - Simulation started.
+2024-12-02 13:17:13,548 - INFO - Simulation completed.
+2024-12-02 13:17:13,549 - INFO - Client_0 [372.0, 596.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,549 - INFO - Client_1 [1575.0, 248.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,549 - INFO - Client_2 [146.0890465422411, 367.1224172409484] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,549 - INFO - Client_3 [1270.0, 1195.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:    20
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:    74
+2024-12-02 13:17:13,549 - INFO - 	Total usage: 6525344983
+2024-12-02 13:17:13,549 - INFO - Client_4 [1974.5159697677889, 1527.3225035683688] connected to: slice=x_eMBB     init=7000000000.0 cap=7000000000.0 diff=0.0   @ BS_4 	 cov:[c=(1860, 1400), r= 206]	 with cap 35000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:    19
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:    77
+2024-12-02 13:17:13,549 - INFO - 	Total usage: 6973458847
+2024-12-02 13:17:13,549 - INFO - Client_5 [740.8509818664378, 1801.2889691159344] connected to: slice=x_mMTC     init=1200000000.0 cap=1200000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total request count:    47
+2024-12-02 13:17:13,549 - INFO - 	Total consume time:    47
+2024-12-02 13:17:13,549 - INFO - 	Total usage: 211040867
+2024-12-02 13:17:13,549 - INFO - Client_6 [772.0, 537.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,549 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,549 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,550 - INFO - Client_7 [932.3530995772794, 1387.466550716096] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:    22
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:    73
+2024-12-02 13:17:13,550 - INFO - 	Total usage: 5924656057
+2024-12-02 13:17:13,550 - INFO - Client_8 [861.9148940392483, 332.98170070749285] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,550 - INFO - Client_9 [1506.5460946926555, 1393.3693483690101] connected to: slice=x_eMBB     init=2500000000.0 cap=2500000000.0 diff=0.0   @ BS_2 	 cov:[c=(1448, 1456), r= 152]	 with cap 10000000000	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:    17
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:    81
+2024-12-02 13:17:13,550 - INFO - 	Total usage: 7350484201
+2024-12-02 13:17:13,550 - INFO - Client_10 [811.0, 142.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,550 - INFO - Client_11 [445.44137930173997, 1009.9505340626886] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,550 - INFO - Client_12 [1129.0, 1536.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:    16
+2024-12-02 13:17:13,550 - INFO - 	Total consume time:    78
+2024-12-02 13:17:13,550 - INFO - 	Total usage: 7155898494
+2024-12-02 13:17:13,550 - INFO - Client_13 [481.0, 544.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,550 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,550 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,551 - INFO - Client_14 [1770.0, 1424.0] connected to: slice=x_eMBB     init=7000000000.0 cap=7000000000.0 diff=0.0   @ BS_4 	 cov:[c=(1860, 1400), r= 206]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:    17
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:    80
+2024-12-02 13:17:13,551 - INFO - 	Total usage: 7405503026
+2024-12-02 13:17:13,551 - INFO - Client_15 [947.0, 291.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,551 - INFO - Client_16 [839.0, 104.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,551 - INFO - Client_17 [1931.0, 1776.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:    19
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:    79
+2024-12-02 13:17:13,551 - INFO - 	Total usage: 6938222141
+2024-12-02 13:17:13,551 - INFO - Client_18 [230.14665354843058, 113.53537410084233] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,551 - INFO - Client_19 [329.0, 1061.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,551 - INFO - Client_20 [654.0, 1406.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total request count:    17
+2024-12-02 13:17:13,551 - INFO - 	Total consume time:    79
+2024-12-02 13:17:13,551 - INFO - 	Total usage: 7020408688
+2024-12-02 13:17:13,551 - INFO - Client_21 [1888.4320965406605, 1035.767593876533] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,551 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,551 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_22 [1673.0, 1232.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:    21
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:    77
+2024-12-02 13:17:13,552 - INFO - 	Total usage: 6708901494
+2024-12-02 13:17:13,552 - INFO - Client_23 [174.0, 1618.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_24 [1630.0, 1000.0] connected to: slice=None @ None	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_25 [314.0, 402.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_26 [1875.0, 660.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_27 [733.0, 637.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_28 [501.0, 302.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,552 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,552 - INFO - Client_29 [1652.0, 880.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,552 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,552 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_30 [1742.8849744537094, 616.140291163865] connected to: slice=None @ None	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_31 [1935.0, 1278.0] connected to: slice=x_eMBB     init=7000000000.0 cap=7000000000.0 diff=0.0   @ BS_4 	 cov:[c=(1860, 1400), r= 206]	 with cap 35000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:    19
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:    79
+2024-12-02 13:17:13,553 - INFO - 	Total usage: 6919600402
+2024-12-02 13:17:13,553 - INFO - Client_32 [1141.4045158404672, 1491.182491184976] connected to: slice=x_voice    init=2100000000.0 cap=2100000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:    14
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:    84
+2024-12-02 13:17:13,553 - INFO - 	Total usage: 77641809
+2024-12-02 13:17:13,553 - INFO - Client_33 [619.5591190527116, -7.13276453943093] connected to: slice=None @ None	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_34 [1795.0, 676.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_35 [1887.0, 863.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_36 [1002.0, 912.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,553 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,553 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,553 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,553 - INFO - Client_37 [941.0, 1945.0] connected to: slice=x_eMBB     init=10800000000.0 cap=10800000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:    21
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:    77
+2024-12-02 13:17:13,554 - INFO - 	Total usage: 6921681688
+2024-12-02 13:17:13,554 - INFO - Client_38 [1040.0, 1869.0] connected to: slice=x_URLLC    init=300000000.0 cap=300000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:    47
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:    46
+2024-12-02 13:17:13,554 - INFO - 	Total usage: 174627701
+2024-12-02 13:17:13,554 - INFO - Client_39 [1112.0, 1921.0] connected to: slice=x_URLLC    init=300000000.0 cap=300000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:    47
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:    47
+2024-12-02 13:17:13,554 - INFO - 	Total usage: 221054246
+2024-12-02 13:17:13,554 - INFO - Client_40 [329.0, 1947.0] connected to: slice=None @ None	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,554 - INFO - Client_41 [907.0, 1073.0] connected to: slice=x_voice    init=2100000000.0 cap=2100000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:    13
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:    77
+2024-12-02 13:17:13,554 - INFO - 	Total usage: 70658942
+2024-12-02 13:17:13,554 - INFO - Client_42 [765.0, 150.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,554 - INFO - Client_43 [1794.8899490331958, 1341.351588876978] connected to: slice=x_URLLC    init=700000000.0 cap=700000000.0 diff=0.0   @ BS_4 	 cov:[c=(1860, 1400), r= 206]	 with cap 35000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:    48
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:    48
+2024-12-02 13:17:13,554 - INFO - 	Total usage: 206385398
+2024-12-02 13:17:13,554 - INFO - Client_44 [238.0, 268.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,554 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,554 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,554 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,555 - INFO - Client_45 [1139.0,  71.0] connected to: slice=None @ None	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,555 - INFO - Client_46 [662.0, 1476.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:    11
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:    46
+2024-12-02 13:17:13,555 - INFO - 	Total usage: 4259829477
+2024-12-02 13:17:13,555 - INFO - Client_47 [1909.0, 1836.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:    18
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:    80
+2024-12-02 13:17:13,555 - INFO - 	Total usage: 7180656534
+2024-12-02 13:17:13,555 - INFO - Client_48 [909.0601350006077, 1618.1291601495186] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:    18
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:    79
+2024-12-02 13:17:13,555 - INFO - 	Total usage: 6921966114
+2024-12-02 13:17:13,555 - INFO - Client_49 [1585.0, 820.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,555 - INFO - Client_50 [269.0, 1041.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,555 - INFO - Client_51 [1440.0, 1014.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,555 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,555 - INFO - Client_52 [1758.0, 288.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,555 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,555 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_53 [1152.0, 1235.0] connected to: slice=x_voice    init=2100000000.0 cap=2100000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     2
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     7
+2024-12-02 13:17:13,556 - INFO - 	Total usage: 6812754
+2024-12-02 13:17:13,556 - INFO - Client_54 [1915.0, 1611.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:    16
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:    81
+2024-12-02 13:17:13,556 - INFO - 	Total usage: 7434104143
+2024-12-02 13:17:13,556 - INFO - Client_55 [1162.0, 133.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_56 [470.0, 1076.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_57 [101.68343229717664, 1197.6861859967369] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_58 [533.0, 907.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_59 [1574.0, 716.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,556 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,556 - INFO - Client_60 [1355.0, 1945.0] connected to: slice=x_mMTC     init=2400000000.0 cap=2400000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,556 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,556 - INFO - 	Total request count:    46
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:    46
+2024-12-02 13:17:13,557 - INFO - 	Total usage: 182870991
+2024-12-02 13:17:13,557 - INFO - Client_61 [1423.0, 892.0] connected to: slice=None @ None	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_62 [1086.0, 641.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_63 [45.0 , 1085.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_64 [1966.0, 1021.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_65 [1383.0, 1262.0] connected to: slice=x_mMTC     init=2400000000.0 cap=2400000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:    46
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:    45
+2024-12-02 13:17:13,557 - INFO - 	Total usage: 172217278
+2024-12-02 13:17:13,557 - INFO - Client_66 [825.0, 113.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_67 [1274.838937901254, 678.8551468996341] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,557 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,557 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,557 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,557 - INFO - Client_68 [177.0, 1475.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_69 [1427.0, 500.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_70 [788.9628515889232, 68.88290096261123] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_71 [241.0,  27.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_72 [1903.417586368602, 696.6792663923877] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_73 [1601.0, 1763.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:    18
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:    80
+2024-12-02 13:17:13,558 - INFO - 	Total usage: 6945957682
+2024-12-02 13:17:13,558 - INFO - Client_74 [873.0, 243.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_75 [623.0, 1842.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,558 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,558 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,558 - INFO - Client_76 [909.9694417174808, 1505.9598382899821] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,558 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:    18
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:    78
+2024-12-02 13:17:13,559 - INFO - 	Total usage: 6979300015
+2024-12-02 13:17:13,559 - INFO - Client_77 [1455.731796706841, 1080.6697742228978] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_78 [956.0, 669.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_79 [497.0, 1356.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_80 [201.65044814379058, 1425.1067439351427] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_81 [153.9370952467282, 1647.4292660923409] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_82 [817.0,  97.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_83 [218.0, 1622.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,559 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,559 - INFO - Client_84 [709.7834440720881, 526.4181848412892] connected to: slice=None @ None	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,559 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,559 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,560 - INFO - Client_85 [1285.0, 1640.0] connected to: slice=x_eMBB     init=37600000000.0 cap=37600000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:    15
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:    83
+2024-12-02 13:17:13,560 - INFO - 	Total usage: 7790000150
+2024-12-02 13:17:13,560 - INFO - Client_86 [1697.89776786121, 1950.354324978162] connected to: slice=x_voice    init=5600000000.000001 cap=5600000000.000001 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:    12
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:    74
+2024-12-02 13:17:13,560 - INFO - 	Total usage: 69277572
+2024-12-02 13:17:13,560 - INFO - Client_87 [1011.9742856728253, 1919.815711903139] connected to: slice=x_eMBB     init=10800000000.0 cap=10800000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [stationary: normalvariate: (0, 0.1)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:    20
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:    78
+2024-12-02 13:17:13,560 - INFO - 	Total usage: 6703110670
+2024-12-02 13:17:13,560 - INFO - Client_88 [1636.0, 1092.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,560 - INFO - Client_89 [405.0, 527.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,560 - INFO - Client_90 [553.0, 934.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,560 - INFO - Client_91 [811.0, 1062.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total request count:    11
+2024-12-02 13:17:13,560 - INFO - 	Total consume time:    47
+2024-12-02 13:17:13,560 - INFO - 	Total usage: 4319050442
+2024-12-02 13:17:13,560 - INFO - Client_92 [793.5418958935923, 1814.6528970777629] connected to: slice=x_eMBB     init=10800000000.0 cap=10800000000.0 diff=0.0   @ BS_0 	 cov:[c=(996 , 1822), r= 316]	 with cap 30000000000	 with mobility pattern of [car: normalvariate: (0, 7)]
+2024-12-02 13:17:13,560 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,560 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:    14
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:    53
+2024-12-02 13:17:13,561 - INFO - 	Total usage: 4519485688
+2024-12-02 13:17:13,561 - INFO - Client_93 [1073.0, 1225.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:    17
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:    80
+2024-12-02 13:17:13,561 - INFO - 	Total usage: 7262594589
+2024-12-02 13:17:13,561 - INFO - Client_94 [117.0, 1771.0] connected to: slice=None @ None	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,561 - INFO - Client_95 [876.0, 137.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,561 - INFO - Client_96 [1620.0, 1221.0] connected to: slice=x_mMTC     init=2400000000.0 cap=2400000000.0 diff=0.0   @ BS_3 	 cov:[c=(1568, 1608), r= 418]	 with cap 80000000000	 with mobility pattern of [slackperson: randint: (0, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:    26
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:    26
+2024-12-02 13:17:13,561 - INFO - 	Total usage: 96868510
+2024-12-02 13:17:13,561 - INFO - Client_97 [940.0, 1051.0] connected to: slice=x_eMBB     init=14000000000.0 cap=14000000000.0 diff=0.0   @ BS_1 	 cov:[c=(980 , 1370), r= 356]	 with cap 35000000000	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:    21
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:    77
+2024-12-02 13:17:13,561 - INFO - 	Total usage: 6885123385
+2024-12-02 13:17:13,561 - INFO - Client_98 [458.0, 1591.0] connected to: slice=None @ None	 with mobility pattern of [tram: randint: (-4, 4)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,561 - INFO - Client_99 [693.0, 1035.0] connected to: slice=None @ None	 with mobility pattern of [walk: randint: (-1, 1)]
+2024-12-02 13:17:13,561 - INFO - 	Total connected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total unconnected time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total request count:     0
+2024-12-02 13:17:13,561 - INFO - 	Total consume time:     0
+2024-12-02 13:17:13,561 - INFO - 	Total usage:     0
+2024-12-02 13:17:13,561 - INFO - ([0.0, 0.0, 0.2828282828282828, 0.29292929292929293, 0.26262626262626265, 0.2828282828282828, 0.2727272727272727, 0.2828282828282828, 0.2828282828282828, 0.3, 0.2828282828282828, 0.2727272727272727, 0.26, 0.27, 0.27, 0.29, 0.27, 0.28, 0.28, 0.28, 0.29, 0.28, 0.29, 0.29, 0.29, 0.3, 0.3, 0.29292929292929293, 0.2828282828282828, 0.2828282828282828, 0.2828282828282828, 0.29, 0.29, 0.29, 0.2828282828282828, 0.29292929292929293, 0.2828282828282828, 0.29292929292929293, 0.29292929292929293, 0.29292929292929293, 0.30303030303030304, 0.3, 0.31, 0.31, 0.32, 0.31, 0.32, 0.33, 0.33, 0.31, 0.33, 0.33, 0.33, 0.33, 0.33, 0.32, 0.33, 0.32, 0.33, 0.33, 0.32, 0.31, 0.33, 0.31, 0.32, 0.33, 0.32, 0.32, 0.31, 0.33, 0.33, 0.33, 0.32, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.31, 0.33, 0.33, 0.32, 0.33, 0.32, 0.33, 0.32, 0.32323232323232326, 0.32323232323232326, 0.32323232323232326, 0.32323232323232326, 0.32323232323232326, 0.31313131313131315, 0.32323232323232326, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333], [0.0, 0.0, 0.0, 1860539250.0, 1558504877.0, 1573265084.0, 1612393049.0, 1487162076.0, 1448760254.0, 1616261141.0, 1459124998.0, 1302259242.0, 1568202260.0, 1413239993.0, 1223696095.0, 1517739578.0, 1688895285.0, 1452272052.0, 1598225044.0, 1199029897.0, 1289794468.0, 1100923317.0, 1489188813.0, 1693608419.0, 1524562490.0, 1668663116.0, 1345684502.0, 1561658036.0, 1675630594.0, 1719196852.0, 1419278922.0, 1398313885.0, 1383127090.0, 1365273036.0, 1527819482.0, 1684414139.0, 1609747857.0, 1651432739.0, 1478823886.0, 1424291877.0, 1723592603.0, 1964569543.0, 1851663236.0, 1522585624.0, 1470750062.0, 1759650737.0, 1883403238.0, 1792650585.0, 1315316393.0, 1613129922.0, 1420763178.0, 1792085443.0, 1858975013.0, 1860471604.0, 1666170653.0, 1908780685.0, 1947468076.0, 1548624308.0, 1330720518.0, 1424296821.0, 1793082428.0, 1644076235.0, 1837801885.0, 1411205968.0, 1169408476.0, 1311748206.0, 1537588092.0, 1593562483.0, 1438316959.0, 1695426254.0, 1853133829.0, 1558167224.0, 1876292638.0, 1800166237.0, 1612661738.0, 1249342073.0, 1550172565.0, 1637741521.0, 1561881175.0, 1818414586.0, 1920511737.0, 1887669108.0, 1576514210.0, 1424117851.0, 1733798927.0, 1623056934.0, 1733584509.0, 1605328315.0, 1386899168.0, 1692510011.0, 1390100737.0, 1387191317.0, 1855934470.0, 1572398395.0, 1805461764.0, 1892465829.0, 1786791881.0, 1474102021.0, 1782734327.0, 1806760958.0], [0.0, 0.0, 0.0, 0.017510957647058824, 0.014668281195294118, 0.014807200790588235, 0.015175463990588235, 0.01399681953882353, 0.013635390625882354, 0.015211869562352941, 0.013732941157647059, 0.012256557571764706, 0.014759550682352941, 0.013301082287058823, 0.011517139717647059, 0.014284607792941176, 0.01589548503529412, 0.013668442842352942, 0.01504211806117647, 0.011284987265882352, 0.012139242051764705, 0.01036163121882353, 0.014015894710588235, 0.015939843943529413, 0.014348823435294117, 0.01570506462117647, 0.01266526590117647, 0.014697957985882353, 0.015770640884705884, 0.01618067625411765, 0.013357919265882354, 0.013160601270588235, 0.013017666729411764, 0.012849628574117648, 0.014379477477647059, 0.015853309543529412, 0.015150568065882353, 0.015542896367058823, 0.013918342456470589, 0.01340510001882353, 0.016222048028235295, 0.018490066287058824, 0.017427418691764705, 0.01433021763764706, 0.013842353524705883, 0.01656141870117647, 0.01772614812235294, 0.016872005505882352, 0.012379448404705883, 0.015182399265882354, 0.013371888734117647, 0.01686668652235294, 0.01749623541647059, 0.01751032097882353, 0.015681606145882352, 0.01796499468235294, 0.018329111303529412, 0.014575287604705882, 0.012524428404705882, 0.013405146550588234, 0.016876069910588234, 0.015473658682352941, 0.01729695891764706, 0.01328193852235294, 0.011006197421176471, 0.012345865468235294, 0.014471417336470588, 0.014998235134117646, 0.013537100790588235, 0.01595695297882353, 0.017441259567058824, 0.014665103284705883, 0.017659224828235294, 0.01694274105411765, 0.015177992828235294, 0.011758513628235294, 0.014589859435294117, 0.015414037844705882, 0.014700058117647059, 0.01711449022117647, 0.018075404583529412, 0.017766297487058824, 0.0148377808, 0.013403462127058823, 0.016318107548235296, 0.015275829967058823, 0.01631608949647059, 0.015108972376470587, 0.01305316864, 0.01592950598588235, 0.013083301054117646, 0.01305591827764706, 0.01746761854117647, 0.01479904371764706, 0.016992581308235295, 0.017811443096470588, 0.016816864762352942, 0.013873901374117648, 0.01677867601882353, 0.017004809016470588], [0.0, 0.0, 1.45, 1.5, 1.35, 1.4, 1.35, 1.4, 1.4, 1.5, 1.45, 1.4, 1.3, 1.35, 1.35, 1.45, 1.35, 1.4, 1.4, 1.4, 1.45, 1.4, 1.45, 1.45, 1.45, 1.5, 1.5, 1.5, 1.45, 1.45, 1.4, 1.45, 1.45, 1.45, 1.4, 1.5, 1.45, 1.45, 1.45, 1.5, 1.55, 1.5, 1.55, 1.55, 1.6, 1.55, 1.6, 1.65, 1.65, 1.55, 1.65, 1.65, 1.65, 1.65, 1.65, 1.6, 1.65, 1.6, 1.65, 1.65, 1.6, 1.55, 1.65, 1.55, 1.6, 1.65, 1.6, 1.6, 1.55, 1.65, 1.65, 1.65, 1.6, 1.65, 1.65, 1.65, 1.65, 1.65, 1.65, 1.55, 1.65, 1.65, 1.6, 1.65, 1.6, 1.65, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.55, 1.6, 1.65, 1.65, 1.65, 1.65, 1.65, 1.65], [0.0, 0.0, 0.2828282828282828, 0.29292929292929293, 0.29292929292929293, 0.29292929292929293, 0.29292929292929293, 0.29292929292929293, 0.29292929292929293, 0.3, 0.29292929292929293, 0.2828282828282828, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.3, 0.3, 0.3, 0.29292929292929293, 0.29292929292929293, 0.2828282828282828, 0.2828282828282828, 0.29, 0.29, 0.29, 0.2828282828282828, 0.29292929292929293, 0.29292929292929293, 0.30303030303030304, 0.29292929292929293, 0.30303030303030304, 0.30303030303030304, 0.31, 0.32, 0.32, 0.32, 0.32, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.33, 0.32, 0.33, 0.33, 0.33, 0.33, 0.3333333333333333, 0.32323232323232326, 0.32323232323232326, 0.3333333333333333, 0.32323232323232326, 0.32323232323232326, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0], [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0])
+2024-12-02 13:17:32,917 - INFO - Simulation completed. Results saved to: /Users/spartan/Desktop/workspace/courses/wireless_networks/project/Smart-Slice-Selection-in-5G-Network-Slicing--master/Traditional_approach/output/network2.png
